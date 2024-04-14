@@ -1,1 +1,1 @@
-this game was build by dellouli lokman using c language
+this game was build by polar using c language
